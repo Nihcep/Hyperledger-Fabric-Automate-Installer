@@ -1,5 +1,4 @@
 import sys
-from networkconf import conf
 
 #Put "number1" space and "number" line jump 
 def jumptab(number, number1):
